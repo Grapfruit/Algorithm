@@ -6,7 +6,7 @@
 
 #### 题目
 
-![image-20200731221210621](C:\Users\renyb2\Desktop\Algorithm\img\Difkstra-问题1.png)
+![image-20200731221210621](img/Dijkstra-问题1.png)
 
 ```
 # 代码构造上图
